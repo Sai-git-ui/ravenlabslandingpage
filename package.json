@@ -1,0 +1,23 @@
+{
+  "name": "ravenlabslandingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sai-git-ui/ravenlabslandingpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sai-git-ui/ravenlabslandingpage/issues"
+  },
+  "homepage": "https://github.com/Sai-git-ui/ravenlabslandingpage#readme",
+  "dependencies": {
+    "motion": "^14.0.0"
+  }
+}
